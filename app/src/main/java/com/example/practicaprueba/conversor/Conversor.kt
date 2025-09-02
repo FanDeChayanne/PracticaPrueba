@@ -18,6 +18,7 @@ object Conversor {
     }
 
 
+
     fun convertir_usd_int(valorPesos: Int): Int {
 
         var tipoCambio:Int = 900
